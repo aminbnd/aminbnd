@@ -15,6 +15,6 @@
 
 
 <p align="center">&nbsp;<img widht="450" height="200" src="https://github-readme-stats.vercel.app/api?username=aminbnd&show_icons=true&locale=en" alt="aminbnd" />
-<img  width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminbnd&show_icons=true&locale=en&layout=compact" alt="aminbnd" />
+<img  width="252" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminbnd&show_icons=true&locale=en&layout=compact" alt="aminbnd" />
 </p>
 
