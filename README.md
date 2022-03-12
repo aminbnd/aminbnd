@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Amin Bondi</h1>
-<h3 align="center">I'm A Software Engineering Student at @Holberton School in Tunis, Tunisia Specialized in web developement and AR/VR engineering</h3>
+<h3 align="center">I'm A Software Engineering Student at [Holberton School](https://github.com/holbertonschool) in Tunis, Tunisia Specialized in web developement and AR/VR engineering</h3>
 
 - 👨‍💻 All of my projects are available at [https://aminbnd.github.io/aminbondi.github.io/](https://aminbnd.github.io/aminbondi.github.io/)
 
