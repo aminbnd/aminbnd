@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://aminbnd.github.io/aminbondi.github.io/](https://aminbnd.github.io/aminbondi.github.io/)
 
 
-<p align="center"><img widht="250" height="150" src="https://github-readme-stats.vercel.app/api?username=aminbnd&show_icons=true&locale=en" alt="aminbnd" />
+<p align="center"><img widht="250" height="160" src="https://github-readme-stats.vercel.app/api?username=aminbnd&show_icons=true&locale=en" alt="aminbnd" />
 <img  width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminbnd&show_icons=true&locale=en&layout=compact" alt="aminbnd" />
 </p>
 
