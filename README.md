@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Amin Bondi</h1>
-<h3 align="center">I'm A Software Engineering Student at [Holberton School](https://github.com/holbertonschool) in Tunis, Tunisia Specialized in web developement and AR/VR engineering</h3>
+<h3 align="center">I'm A Software Engineering Student at Holberton School in Tunis, Tunisia Specialized in web developement and AR/VR engineering</h3>
 
 - 👨‍💻 All of my projects are available at [https://aminbnd.github.io/aminbondi.github.io/](https://aminbnd.github.io/aminbondi.github.io/)
 
 
-<p align="center">&nbsp;<img widht="150" height="200" src="https://github-readme-stats.vercel.app/api?username=aminbnd&show_icons=true&locale=en" alt="aminbnd" />
-<img  width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminbnd&show_icons=true&locale=en&layout=compact" alt="aminbnd" />
+<p align="center"><img widht="750" height="160" src="https://github-readme-stats.vercel.app/api?username=aminbnd&show_icons=true&locale=en"  />
+<img  width="252" height="240" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminbnd&show_icons=true&locale=en&layout=compact" alt="aminbnd" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
